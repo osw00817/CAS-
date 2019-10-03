@@ -1,0 +1,13 @@
+c:\users\oh seoungwon\source\repos\Stock_game[uneu]\Stock_game[uneu]\bin\Debug\Stock_game[uneu].exe.config
+c:\users\oh seoungwon\source\repos\Stock_game[uneu]\Stock_game[uneu]\bin\Debug\Stock_game[uneu].exe
+c:\users\oh seoungwon\source\repos\Stock_game[uneu]\Stock_game[uneu]\bin\Debug\Stock_game[uneu].pdb
+c:\users\oh seoungwon\source\repos\Stock_game[uneu]\Stock_game[uneu]\obj\Debug\Stock_game_uneu_.Form1.resources
+c:\users\oh seoungwon\source\repos\Stock_game[uneu]\Stock_game[uneu]\obj\Debug\Stock_game_uneu_.Properties.Resources.resources
+c:\users\oh seoungwon\source\repos\Stock_game[uneu]\Stock_game[uneu]\obj\Debug\Stock_game[uneu].csproj.GenerateResource.Cache
+c:\users\oh seoungwon\source\repos\Stock_game[uneu]\Stock_game[uneu]\obj\Debug\Stock_game[uneu].csproj.CoreCompileInputs.cache
+c:\users\oh seoungwon\source\repos\Stock_game[uneu]\Stock_game[uneu]\obj\Debug\Stock_game[uneu].exe
+c:\users\oh seoungwon\source\repos\Stock_game[uneu]\Stock_game[uneu]\obj\Debug\Stock_game[uneu].pdb
+C:\Users\oh seoungwon\source\repos\Stock_game[uneu]\Stock_game[uneu]\obj\Debug\Stock_game[uneu].csprojAssemblyReference.cache
+C:\Users\oh seoungwon\source\repos\Stock_game[uneu]\Stock_game[uneu]\obj\Debug\Stock_game_uneu_.Form2.resources
+C:\Users\oh seoungwon\source\repos\Stock_game[uneu]\Stock_game[uneu]\obj\Debug\Stock_game_uneu_.Form3.resources
+C:\Users\oh seoungwon\source\repos\Stock_game[uneu]\Stock_game[uneu]\obj\Debug\Stock_game_uneu_.Form4.resources
